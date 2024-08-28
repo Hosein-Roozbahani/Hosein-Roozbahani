@@ -24,4 +24,8 @@
   <img src ='https://github.com/Hosein-Roozbahani/Hosein-Roozbahani/blob/main/icons8-instagram-96.png?raw=true' alt='Instagram'>
 </a>
 
+<a href ="https://t.me/Ho3in_Roozbahani">
+  <img src ='https://github.com/Hosein-Roozbahani/Hosein-Roozbahani/blob/main/icons8-telegram-100.png?raw=true' alt='Instagram'>
+</a>
+
 

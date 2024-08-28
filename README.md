@@ -16,4 +16,12 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+<br>
+
+## Socials:
+
+<a href ="https://instagram.com/ho3in._.roozbahani">
+  <img src ='https://github.com/Hosein-Roozbahani/Hosein-Roozbahani/blob/main/icons8-instagram-96.png?raw=true' alt='Instagram'>
+</a>
+
 

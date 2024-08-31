@@ -25,14 +25,13 @@
 </a>
 
 <a href ="https://t.me/Ho3in_Roozbahani">
-  <img src ='https://github.com/Hosein-Roozbahani/Hosein-Roozbahani/blob/main/icons8-telegram-100.png?raw=true' alt='Instagram'>
+  <img src ='https://github.com/Hosein-Roozbahani/Hosein-Roozbahani/blob/main/icons8-telegram-96.png?raw=true' alt='Instagram'>
 </a>
 
 <a href="https://discord.com" title='My ID: sander0_0'>
   <img src="https://github.com/Hosein-Roozbahani/Hosein-Roozbahani/blob/main/icons8-discord-100.png?raw=true" alt="Discord">
 </a>
 <!-- <p>Discord: sander0_0</p> -->
-
 
 
 

@@ -20,7 +20,7 @@
 
 ## Socials:
 
-<a href ="https://instagram.com/ho3in._.roozbahani">
+<a style='wdith : 10px' href ="https://instagram.com/ho3in._.roozbahani">
   <img src ='https://github.com/Hosein-Roozbahani/Hosein-Roozbahani/blob/main/icons8-instagram-96.png?raw=true' alt='Instagram'>
 </a>
 
@@ -28,10 +28,10 @@
   <img src ='https://github.com/Hosein-Roozbahani/Hosein-Roozbahani/blob/main/icons8-telegram-100.png?raw=true' alt='Instagram'>
 </a>
 
-<a href="https://discord.com">
+<a href="https://discord.com" title='sander0_0'>
   <img src="https://github.com/Hosein-Roozbahani/Hosein-Roozbahani/blob/main/icons8-discord-100.png?raw=true" alt="Discord">
 </a>
-<p>Discord: sander0_0</p>
+<!-- <p>Discord: sander0_0</p> -->
 
 
 

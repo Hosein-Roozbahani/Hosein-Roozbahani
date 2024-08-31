@@ -3,7 +3,7 @@
 ## My Activity :
 <img src = 'https://github-readme-stats.vercel.app/api?username=Hosein-Roozbahani&show_icons=true&theme=tokyonight'>
 
-## My Projects Languages :
+## Top Languages :
 <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Hosein-Roozbahani&hide_progress=true'>
 
 ## Skills :
@@ -20,7 +20,7 @@
 
 ## Socials:
 
-<a style='wdith : 10px' href ="https://instagram.com/ho3in._.roozbahani">
+<a style='wdith : 10px;' href ="https://instagram.com/ho3in._.roozbahani">
   <img src ='https://github.com/Hosein-Roozbahani/Hosein-Roozbahani/blob/main/icons8-instagram-96.png?raw=true' alt='Instagram'>
 </a>
 

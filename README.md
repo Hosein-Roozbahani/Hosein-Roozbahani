@@ -3,8 +3,7 @@
 ## My Activity :
 <img src = 'https://github-readme-stats.vercel.app/api?username=Hosein-Roozbahani&show_icons=true&theme=tokyonight'>
 
-## Top Languages :
-<img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Hosein-Roozbahani&hide_progress=true'>
+<br>
 
 ## Skills :
 
@@ -15,6 +14,9 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+## Top Languages :
+<img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Hosein-Roozbahani&hide_progress=true'>
 
 <br>
 
